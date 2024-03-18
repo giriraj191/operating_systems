@@ -35,14 +35,14 @@ Welcome to my comprehensive collection of resources dedicated to Operating Syste
 
 1. **Complete CodeHelp OS Playlist** [Click Here](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)  
    It is advisable to watch videos in 1.5X or 2X 😅  
-   Those who already have studied OS from different sources like Knowledge Gate, Shanu Kuttan etc., and didn't want to watch videos can skip this step.
+   Those who already have studied OS from different sources like Knowledge Gate, Shanu Kuttan, etc., and didn't want to watch videos can skip this step.
 
 1. **Master `Notes OS Interview`**  
-   Go through 'Notes OS Interview' file, deep dive in each chapter and for each section/chapter practice or at least take a look on code & implementation of problems. (if applicable)  
-   suppose, if you are in process synchronisation chapter then also check out how process synchronisation is implemented using threads and other things.
+   Go through 'Notes OS Interview' file, deep dive into each chapter, and for each section/chapter practice or at least take a look on the code & implementation of problems. (if applicable)  
+   suppose, if you are in the process synchronization chapter then also check out how process synchronization is implemented using threads and other things.
 
 1. **Top 50 Interview Questions**  
-   Now, you have enough knowledge about OS and how think works and implemented. So, open google and search top 50 OS interview questions. Go through each question throughly and understand why this question is asked and how to frame answer.
+   Now, you have enough knowledge about OS and how think works and is implemented. So, open Google and search top 50 OS interview questions. Go through each question thoroughly and understand why this question is asked and how to frame the answer.
 
 1. **Mock Interview - Friend**  
    Ask your friend/senior to take a mock interview. Frame each question before explaining.
@@ -51,35 +51,35 @@ Welcome to my comprehensive collection of resources dedicated to Operating Syste
 
    #### **I have 2 — 3 Days 💪**  
    1. **OS Playlist** [Click Here](https://www.youtube.com/watch?v=xw_OuOhjauw&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)  
-   Go through each concept in detail and practice all question which are discussedin videos.  
+   Go through each concept in detail and practice all questions which are discussed in the videos.  
 
    1. **Complete `Notes OS Semester Exam`**  
-   Go through all notes throughly and practice all question discussed in notes and understand the language how to write answers in exams.
+   Go through all notes thoroughly practice all questions discussed in notes and understand the language of how to write answers in exams.
 
    1. **`Notes OS Semester Exam` Page-911 Onwards**  
-   Read short notes attached at page-911 before exams for a quick revision.
+   Read the short notes attached on page-911 before exams for a quick revision.
 
 
    #### **Last Day Preparation 🥲**
    1. **OS 1 Shot** [Click Here](https://www.youtube.com/watch?v=xw_OuOhjauw)  
    It is advisable to watch videos in 1.5X or 2X 😅  
-   Complete this one shot video and practice questions discussed in video.
+   Complete this one-shot video and practice the questions discussed in the video.
 
    1. **Complete `Notes OS Semester Exam`**  
-   Go through all notes throughly with in scroll time of 2 hours. Just grasp the language and understand how to frame the answer in exam.
+   Go through all notes thoroughly within the scroll time of 2 hours. Just grasp the language and understand how to frame the answer in exam.
 
    1. **`Notes OS Semester Exam` Page-911 Onwards**  
-   Read short notes attached at page-911 before exams for a quick revision.
+   Read the short notes attached on page-911 before exams for a quick revision.
 
 
    #### **Less than 6 Hours Left 😭**  
    1. **OS 1 Shot** [Click Here](https://www.youtube.com/watch?v=xw_OuOhjauw)  
    Watch the video in 2X 😅  
-   Complete this one shot video and practice questions discussed in video.
+   Complete this one-shot video and practice the questions discussed in the video.
 
    1. **`Notes OS Semester Exam` Page-911 Onwards**  
-   Read short notes attached at page-911.  
-   Just keep all things in mind and frame answer before writing, Teacher loves the *structure* and *word count* in answer, you know what I mean 😏
+   Read the short notes attached on page-911.  
+   Just keep all things in mind and frame the answer before writing, The Teacher loves the *structure* and *word count* in answers, you know what I mean 😏
 
    1. **Most Important - Pray To God 🙏**
 
@@ -92,17 +92,8 @@ Your feedback is valuable! If you have suggestions for improving existing resour
 
 ## Contact
 Connect with me on LinkedIn - Giriraj @giriraj191 [Connect](https://www.linkedin.com/in/giriraj191/)  
-Want to discuss a topic or collaborate with me, Great! email me at graj05645@gmail.com  
-If you would like to contact me on WhatsApp, email me your contact details and topic of discussion and I will get back to you, please feel free to let me know.
+Want to discuss a topic or collaborate with me, Great! email me at graj05645@gmail.com. Additionally, if you prefer to communicate via WhatsApp, kindly email me your contact details and the topic of discussion, and I will promptly get back to you. Thank you, and I look forward to engaging with you.
 
-## Licencse
+## License
 Copyright (c) 2024 Giriraj (graj05645@gmail.com). All Rights Reserved  
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0  
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
