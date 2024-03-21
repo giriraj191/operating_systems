@@ -24,10 +24,10 @@ Welcome to my comprehensive collection of resources dedicated to Operating Syste
 
 3. **Notes**
    
-   Two types of notes are added, one dedicated to college/semester exams for those students who have OS as a subject and other one is specific to interview side.
+   Two types of notes are added, one dedicated to college/semester exams for those students who have OS as a subject and the other one specific to the interview side.
 
    `Notes OS Interview` - Handwritten modification of notes of CodeHelp (Love Babbar) + addition of some extra content and section.  
-   `Notes OS Semester Exam` - Knowledge Gate Special Notes with short notes attached at end. Complete OS notes for semester exams.
+   `Notes OS Semester Exam` - Knowledge Gate Special Notes with short notes attached at the end. Complete OS notes for semester exams.
 
 ## How to Prepare
 
@@ -38,7 +38,7 @@ Welcome to my comprehensive collection of resources dedicated to Operating Syste
    Those who already have studied OS from different sources like Knowledge Gate, Shanu Kuttan, etc., and didn't want to watch videos can skip this step.
 
 1. **Master `Notes OS Interview`**  
-   Go through 'Notes OS Interview' file, deep dive into each chapter, and for each section/chapter practice or at least take a look on the code & implementation of problems. (if applicable)  
+   Go through 'Notes OS Interview' file, deep dive into each chapter, and for each section/chapter practice or at least take a look at the code & implementation of problems. (if applicable)  
    suppose, if you are in the process synchronization chapter then also check out how process synchronization is implemented using threads and other things.
 
 1. **Top 50 Interview Questions**  
@@ -51,7 +51,7 @@ Welcome to my comprehensive collection of resources dedicated to Operating Syste
 
    #### **I have 2 — 3 Days 💪**  
    1. **OS Playlist** [Click Here](https://www.youtube.com/watch?v=xw_OuOhjauw&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)  
-   Go through each concept in detail and practice all questions which are discussed in the videos.  
+   Go through each concept in detail and practice all questions that are discussed in the videos.  
 
    1. **Complete `Notes OS Semester Exam`**  
    Go through all notes thoroughly practice all questions discussed in notes and understand the language of how to write answers in exams.
@@ -91,8 +91,8 @@ Contributions to this repository are welcome! If you have additional code exampl
 Your feedback is valuable! If you have suggestions for improving existing resources or ideas for new additions to the repository, please don't hesitate to open an issue or reach out to the repository maintainers.
 
 ## Contact
-Connect with me on LinkedIn - Giriraj @giriraj191 [Connect](https://www.linkedin.com/in/giriraj191/)  
-Want to discuss a topic or collaborate with me, Great! email me at graj05645@gmail.com. Additionally, if you prefer to communicate via WhatsApp, kindly email me your contact details and the topic of discussion, and I will promptly get back to you. Thank you, and I look forward to engaging with you.
+Connect with me on LinkedIn, find my profile under the name/handle - Giriraj / @giriraj191 [CONNECT](https://www.linkedin.com/in/giriraj191/) or email me at graj05645@gmail.com.  
+Additionally, if you prefer to communicate via WhatsApp, kindly email me your contact details and the topic of discussion, and I will promptly get back to you. Thank you, and I look forward to engaging with you.
 
 ## License
 Copyright (c) 2024 Giriraj (graj05645@gmail.com). All Rights Reserved  
