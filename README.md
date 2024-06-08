@@ -1,7 +1,14 @@
 # Operating Systems
 
-
 Welcome to my comprehensive collection of resources dedicated to Operating Systems, tailored specifically for interview preparation and college/semester examinations. To maximize your learning experience and achieve your goals, we recommend following the instructions outlined in the `How to Prepare` section diligently. Wishing you the best of luck and happy coding 😊!
+
+## NOTICE | June 8, 2024
+**Attention**  
+This repository is now inactive and no longer maintained. Despite this, the content within remains valuable and of high quality. Here's how you can make the most out of it:
+1. Fork the repository.
+1. Refer to the provided directions in the repository on `How to Prepare` and utilize the resources effectively.
+1. Customize the repository by adding your own content, updates, or improvements. Tailor it to suit your specific needs or preferences.
+
 
 ## Contents
 
@@ -9,7 +16,7 @@ Welcome to my comprehensive collection of resources dedicated to Operating Syste
 
    This folder contains various code examples and implementations related to operating systems. You can explore different concepts through these codes.
 
--  [Process Scheduling Algorithms](./code_section/process_scheduling_algorithms/)
+- [Process Scheduling Algorithms](./code_section/process_scheduling_algorithms/)
 - [Process Synchronisation Problems](./code_section/process_synchronisation_problems/)
 - [Deadlock Problems](./code_section/deadlock_problems)
 - [Page Replacement Algorithms](./code_section/page_replacement_algorithms/)
@@ -84,16 +91,17 @@ Welcome to my comprehensive collection of resources dedicated to Operating Syste
    1. **Most Important - Pray To God 🙏**
 
 
-## Contributions & Feedback
-
-Contributions to this repository are welcome! If you have additional code examples, notes, or resources related to operating systems that you'd like to share, feel free to submit a pull request.
-
-Your feedback is valuable! If you have suggestions for improving existing resources or ideas for new additions to the repository, please don't hesitate to open an issue or reach out to the repository maintainers.
 
 ## Contact
-Connect with me on LinkedIn, find my profile under the name/handle - Giriraj / @giriraj191 [CONNECT](https://www.linkedin.com/in/giriraj191/) or email me at graj05645@gmail.com.  
-Additionally, if you prefer to communicate via WhatsApp, kindly email me your contact details and the topic of discussion, and I will promptly get back to you. Thank you, and I look forward to engaging with you.
+Feel free to connect with me  
+
+- via LinkedIn at [giriraj191](https://www.linkedin.com/in/giriraj191/)  
+- via Email at graj05645@gmail.com  
+
+Also, if you prefer to communicate via WhatsApp, email your contact details and the topic of discussion, and I will promptly get back to you.  
+Thank you, and I look forward to engaging with you.
 
 ## License
-Copyright (c) 2024 Giriraj (graj05645@gmail.com). All Rights Reserved  
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+Apache License Version 2.0, January 2004  
+Copyright (c) 2024 Giriraj (graj05645@gmail.com). All Rights Reserved.  
+The License can be accessed at http://www.apache.org/licenses/LICENSE-2.0
